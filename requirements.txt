@@ -1,4 +1,4 @@
 gradio
 descript-audiotools
-symusic
+symusic==0.4.8
 -e git+https://github.com/TEAMuP-dev/pyharp.git#egg=pyharp
